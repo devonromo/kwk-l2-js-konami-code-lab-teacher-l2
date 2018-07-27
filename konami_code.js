@@ -14,3 +14,8 @@ const codes = [
 function init() {
   // your code here
 }
+document.body 
+
+let index = 0;
+
+
